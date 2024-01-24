@@ -24,19 +24,25 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Business Analyst passionate about transforming raw data into meaningful business strategies. Currently aspiring to become a Data Scientist, I thrive on the intersection of analytics and innovation.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Analysis",
+  "Programming language: Python/R",
+  "Microsoft office suite ",
+  "SQL",
+  "Spreadsheet",
+  "PowerBI/Tableau",
+  "Statistical Analysis",
+  "Financial Analysis",
+  "Machine Learning and Big data Basic",
+  "Communication",
+  "Presentation",
+  "Community Engagement"
 ];
 
 /**
@@ -45,7 +51,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Hey, I'm Microsoft Learn Studnet Ambassador, diving at the ending of Bachelor of Business Administration a passionate and active learner  recently completed the Google Data Analytics course. Motivated by the dynamic world of data, I'm on a journey to leverage insights for innovative solutions. Let's connect and explore the endless possibilities data analytics brings! 🌐✨";
 
 const About = () => {
   return (

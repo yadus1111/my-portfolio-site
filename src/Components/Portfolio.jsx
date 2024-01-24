@@ -31,31 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Stock Market Prediction Model using Numerical and Textual Analysis 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.",
+    url: "https://github.com/yadus1111/The_Spark_Foundation_Intern_task/blob/main/Stock%20Market%20Prediction%20Model%20using%20Numerical%20and%20Textual%20Analysis.ipynb",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Codsoft Intern projects",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Completed three tasks.Project-1 TITANIC SURVIVAL PREDICTION.ipynb, Project-2 IRIS FLOWER CLASSIFICATION.ipynb, Project-3 Credit card fraud detection.ipynb", 
+    url: "https://github.com/yadus1111/CODSOFT",
   },
   {
-    title: "My Resume Site",
+    title: "Unveiling the Stars: An Exploratory Study on NASA Astronauts",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Dive into NASA astronaut data using Python and MySQL. Clean, explore, and extract insights from a comprehensive dataset covering birthdates, education, military history, and space missions. Gain advanced skills in Python and SQL, unraveling astronauts' demographics, careers, and achievements through descriptive statistics and data visualization in just one week! 🛰️📊",
+    url: "https://hicounselor.com/projects/Yadu%20Sharma-portfolio/NjkyMDA=",
   },
 ];
-
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
